@@ -1,0 +1,501 @@
+programming_id,student_id,language,problems_solved,assessments_completed,mini_projects,certifications_earned,latest_project_score
+1,37,Angular JS,34,2,8,30,54
+2,15,DataScience,237,9,8,12,94
+3,9,DataScience,81,4,7,31,13
+4,3,AI/ML,55,9,2,20,56
+5,81,AI/ML,256,9,7,37,98
+6,66,Angular JS,168,7,0,25,40
+7,48,Angular JS,70,4,6,28,14
+8,54,AI/ML,235,5,5,10,77
+9,71,AI/ML,111,7,3,32,31
+10,51,AI/ML,178,0,6,14,21
+11,88,AI/ML,229,2,2,40,84
+12,54,Quantum Computing,146,4,7,43,3
+13,62,Angular JS,179,7,3,46,53
+14,51,Full Stack Development,112,4,6,47,17
+15,73,AI/ML,45,8,8,15,7
+16,74,Quantum Computing,185,7,8,41,81
+17,33,Angular JS,215,2,2,1,87
+18,86,DataScience,17,8,3,32,75
+19,41,Full Stack Development,263,8,0,14,73
+20,66,BlockChain,183,8,6,45,91
+21,54,Angular JS,86,5,5,36,65
+22,37,Quantum Computing,53,4,5,22,80
+23,57,AI/ML,140,8,2,16,87
+24,43,Full Stack Development,258,9,2,46,99
+25,19,Full Stack Development,33,7,7,30,52
+26,28,Angular JS,58,8,6,43,61
+27,94,AI/ML,278,8,3,35,80
+28,38,Full Stack Development,63,0,0,20,1
+29,26,BlockChain,187,2,8,40,94
+30,98,AI/ML,170,0,3,31,51
+31,99,Angular JS,71,7,8,16,43
+32,28,Angular JS,86,6,9,26,28
+33,46,Quantum Computing,0,5,7,5,47
+34,1,BlockChain,168,9,9,37,31
+35,28,DataScience,256,7,0,5,58
+36,90,Full Stack Development,121,6,9,40,43
+37,70,Full Stack Development,114,8,1,8,89
+38,92,Angular JS,0,3,1,3,13
+39,49,Full Stack Development,155,4,0,44,76
+40,62,Quantum Computing,203,9,1,21,43
+41,51,Full Stack Development,47,4,0,0,7
+42,28,Angular JS,95,4,5,19,69
+43,31,AI/ML,88,6,2,9,32
+44,94,Angular JS,18,5,9,27,57
+45,59,Full Stack Development,154,9,8,31,72
+46,30,Angular JS,34,4,5,7,99
+47,91,Angular JS,293,9,7,43,77
+48,93,Full Stack Development,59,7,9,20,81
+49,22,DataScience,172,8,0,11,30
+50,40,Quantum Computing,251,7,7,16,39
+51,37,Full Stack Development,43,8,9,34,48
+52,36,Angular JS,176,9,4,34,51
+53,2,Angular JS,210,4,9,20,28
+54,78,Full Stack Development,270,5,4,8,30
+55,7,AI/ML,166,0,3,0,19
+56,97,Full Stack Development,275,6,4,6,20
+57,73,DataScience,21,7,8,24,84
+58,39,Angular JS,69,0,6,43,74
+59,3,Angular JS,10,7,3,43,3
+60,55,BlockChain,270,5,9,38,67
+61,35,Angular JS,109,2,7,46,10
+62,57,Full Stack Development,219,0,2,24,67
+63,67,Angular JS,182,2,1,43,9
+64,60,Full Stack Development,245,2,9,37,59
+65,94,Full Stack Development,34,8,3,12,20
+66,44,AI/ML,234,1,4,8,24
+67,39,Quantum Computing,245,9,6,11,66
+68,49,AI/ML,81,9,3,8,74
+69,100,AI/ML,210,0,2,12,94
+70,16,DataScience,36,0,0,0,10
+71,64,DataScience,250,6,0,5,72
+72,20,BlockChain,191,6,3,15,53
+73,34,DataScience,129,4,7,19,89
+74,83,Quantum Computing,56,3,6,2,35
+75,71,DataScience,284,9,1,2,55
+76,48,Angular JS,24,0,1,35,41
+77,87,BlockChain,108,2,8,42,21
+78,60,Full Stack Development,72,7,5,28,30
+79,99,DataScience,263,5,2,40,33
+80,80,Angular JS,267,3,4,14,17
+81,40,Full Stack Development,82,8,4,40,7
+82,58,BlockChain,220,5,5,4,9
+83,20,AI/ML,242,3,3,36,26
+84,28,Angular JS,175,7,8,36,77
+85,88,BlockChain,230,8,7,8,15
+86,81,Quantum Computing,126,2,0,1,94
+87,100,Angular JS,77,5,6,9,68
+88,54,DataScience,299,1,9,12,84
+89,41,AI/ML,126,1,1,7,24
+90,82,Full Stack Development,245,3,4,38,62
+91,61,Quantum Computing,173,6,0,49,71
+92,74,AI/ML,117,3,8,13,32
+93,67,DataScience,161,3,1,5,49
+94,2,Full Stack Development,250,6,1,40,10
+95,87,AI/ML,73,9,7,31,96
+96,88,AI/ML,280,6,5,12,63
+97,52,Full Stack Development,297,1,7,10,15
+98,64,Full Stack Development,248,4,0,11,41
+99,12,Angular JS,297,3,2,11,40
+100,82,DataScience,224,3,5,7,9
+101,31,BlockChain,285,3,2,5,22
+102,44,Full Stack Development,231,0,1,10,6
+103,30,Quantum Computing,142,1,2,4,46
+104,13,AI/ML,163,7,9,16,26
+105,14,DataScience,58,3,2,27,54
+106,94,Quantum Computing,76,6,6,14,17
+107,60,Full Stack Development,159,5,3,25,30
+108,95,Quantum Computing,107,2,6,28,7
+109,76,BlockChain,134,6,3,6,82
+110,23,Angular JS,229,0,1,2,7
+111,21,AI/ML,110,3,2,15,66
+112,17,AI/ML,240,5,1,2,72
+113,85,AI/ML,33,9,0,35,34
+114,28,Full Stack Development,230,3,5,43,57
+115,86,Full Stack Development,93,8,9,35,45
+116,51,BlockChain,100,9,6,33,15
+117,56,DataScience,5,9,1,27,61
+118,49,AI/ML,158,9,8,38,79
+119,97,AI/ML,189,5,4,9,87
+120,18,Full Stack Development,293,4,5,27,72
+121,31,AI/ML,84,1,6,6,38
+122,100,AI/ML,239,6,9,47,66
+123,72,BlockChain,176,7,3,35,48
+124,51,AI/ML,38,5,2,12,86
+125,22,Full Stack Development,139,3,2,31,32
+126,89,Full Stack Development,299,0,3,17,91
+127,23,Quantum Computing,28,3,7,24,76
+128,7,Quantum Computing,17,2,1,18,99
+129,34,Quantum Computing,233,0,6,45,88
+130,8,Quantum Computing,128,0,6,8,60
+131,3,DataScience,110,8,9,2,73
+132,88,Angular JS,157,3,5,41,21
+133,100,DataScience,282,6,2,33,39
+134,62,Full Stack Development,58,6,4,25,96
+135,53,BlockChain,258,9,8,20,82
+136,43,DataScience,135,7,6,16,38
+137,11,Quantum Computing,249,6,0,3,49
+138,65,BlockChain,72,7,8,28,94
+139,62,AI/ML,204,3,2,16,73
+140,11,BlockChain,228,1,3,10,76
+141,49,BlockChain,170,7,8,49,32
+142,9,Full Stack Development,142,9,3,47,97
+143,80,AI/ML,278,0,0,41,27
+144,14,Angular JS,23,5,7,8,40
+145,59,Angular JS,179,5,0,44,71
+146,74,AI/ML,264,5,6,18,86
+147,84,Full Stack Development,167,2,1,34,19
+148,61,Full Stack Development,285,5,6,44,48
+149,90,DataScience,258,3,6,42,30
+150,74,AI/ML,240,1,7,0,35
+151,66,Angular JS,126,9,4,3,54
+152,92,Full Stack Development,89,2,4,49,92
+153,81,Full Stack Development,30,4,7,40,24
+154,61,DataScience,28,4,3,20,28
+155,45,Angular JS,259,8,4,9,12
+156,14,DataScience,147,5,8,6,64
+157,69,BlockChain,143,6,1,9,18
+158,71,DataScience,85,8,1,48,38
+159,88,BlockChain,163,9,8,0,74
+160,12,Angular JS,282,9,5,20,76
+161,24,DataScience,233,8,4,17,12
+162,10,Full Stack Development,293,9,2,26,13
+163,32,Full Stack Development,197,8,7,17,53
+164,92,DataScience,295,7,7,18,34
+165,26,BlockChain,55,1,6,3,51
+166,48,AI/ML,69,5,7,25,12
+167,95,DataScience,79,8,4,3,91
+168,86,Full Stack Development,133,0,9,17,80
+169,70,Full Stack Development,213,4,5,25,15
+170,94,BlockChain,202,1,5,23,51
+171,70,BlockChain,297,2,4,9,27
+172,94,Angular JS,241,8,1,1,80
+173,7,AI/ML,184,8,1,9,97
+174,27,AI/ML,296,1,4,36,30
+175,83,Full Stack Development,162,5,2,41,15
+176,52,DataScience,123,7,4,0,66
+177,96,Full Stack Development,90,7,9,48,91
+178,21,Angular JS,139,8,3,30,21
+179,54,Full Stack Development,199,4,4,31,48
+180,79,Quantum Computing,37,2,6,24,90
+181,42,Angular JS,9,2,9,33,91
+182,3,Quantum Computing,71,0,4,31,61
+183,63,BlockChain,72,0,3,34,64
+184,4,DataScience,229,5,9,1,49
+185,42,Full Stack Development,205,9,1,19,1
+186,93,Angular JS,115,9,8,25,77
+187,13,Quantum Computing,285,3,1,15,10
+188,55,Angular JS,253,0,8,13,38
+189,49,Full Stack Development,35,5,6,24,1
+190,58,Angular JS,117,2,4,47,39
+191,83,DataScience,277,8,0,49,40
+192,1,Full Stack Development,230,0,4,21,31
+193,89,Full Stack Development,235,8,5,44,84
+194,3,Angular JS,128,2,4,34,10
+195,1,Quantum Computing,144,2,3,36,25
+196,54,DataScience,198,1,2,5,98
+197,31,AI/ML,112,1,6,5,14
+198,83,AI/ML,7,3,2,3,61
+199,30,Quantum Computing,139,5,4,7,98
+200,19,Full Stack Development,24,9,7,26,81
+201,23,DataScience,230,1,1,38,4
+202,26,BlockChain,64,9,8,36,44
+203,37,BlockChain,180,9,1,36,91
+204,5,Quantum Computing,255,8,3,15,22
+205,76,Quantum Computing,273,0,3,11,51
+206,98,Full Stack Development,228,5,6,25,31
+207,88,BlockChain,242,9,6,26,63
+208,39,Quantum Computing,204,5,9,6,12
+209,25,BlockChain,73,4,9,15,31
+210,40,Full Stack Development,35,9,5,12,0
+211,9,Angular JS,140,5,3,30,56
+212,71,Quantum Computing,73,1,9,43,27
+213,82,Full Stack Development,193,0,0,16,15
+214,4,Angular JS,91,8,0,16,74
+215,5,Angular JS,150,9,1,9,41
+216,75,DataScience,41,1,2,7,9
+217,4,Full Stack Development,222,9,6,47,57
+218,44,Full Stack Development,99,9,0,19,62
+219,52,Full Stack Development,163,9,1,34,87
+220,98,DataScience,195,8,2,18,89
+221,34,Angular JS,80,6,3,23,8
+222,27,Quantum Computing,20,3,4,30,64
+223,62,Quantum Computing,133,8,8,2,13
+224,59,Angular JS,297,0,3,26,21
+225,37,DataScience,108,1,2,39,85
+226,91,Angular JS,113,2,3,3,80
+227,34,BlockChain,119,1,8,48,39
+228,5,AI/ML,65,7,2,10,53
+229,51,AI/ML,0,9,6,34,6
+230,74,BlockChain,252,8,8,47,9
+231,29,Quantum Computing,12,6,2,23,27
+232,2,Quantum Computing,136,0,8,46,65
+233,99,AI/ML,104,4,7,24,91
+234,21,Angular JS,295,7,2,15,82
+235,79,Full Stack Development,191,8,2,39,61
+236,72,AI/ML,140,5,4,42,15
+237,42,BlockChain,15,7,0,44,51
+238,72,Angular JS,112,6,6,12,18
+239,15,DataScience,88,4,6,47,88
+240,91,Quantum Computing,243,2,8,30,32
+241,82,DataScience,296,1,1,9,55
+242,85,Angular JS,120,8,3,25,25
+243,14,AI/ML,76,3,5,18,28
+244,61,DataScience,179,9,2,12,97
+245,74,BlockChain,17,1,4,32,66
+246,6,Full Stack Development,41,0,4,35,43
+247,97,Quantum Computing,239,6,0,3,93
+248,29,Full Stack Development,222,2,0,26,1
+249,89,BlockChain,51,9,7,2,89
+250,54,Angular JS,294,6,8,36,44
+251,11,BlockChain,280,9,9,11,39
+252,16,DataScience,4,6,7,48,15
+253,49,DataScience,92,1,3,15,96
+254,97,BlockChain,168,7,0,22,95
+255,71,DataScience,72,9,6,5,45
+256,93,Angular JS,285,3,4,35,28
+257,4,Full Stack Development,54,6,5,12,8
+258,97,Quantum Computing,176,3,5,40,86
+259,73,BlockChain,247,8,9,45,62
+260,17,AI/ML,253,4,6,41,1
+261,87,Full Stack Development,257,6,6,11,91
+262,7,AI/ML,166,8,4,13,89
+263,5,Full Stack Development,132,1,0,9,71
+264,25,Quantum Computing,45,6,6,24,14
+265,68,DataScience,85,6,1,33,22
+266,51,BlockChain,29,7,0,32,47
+267,8,Full Stack Development,124,5,5,31,7
+268,61,Full Stack Development,148,6,5,37,37
+269,84,Quantum Computing,222,5,4,10,19
+270,25,Full Stack Development,7,2,8,41,72
+271,55,AI/ML,249,2,1,37,3
+272,52,Full Stack Development,148,2,5,21,91
+273,89,DataScience,243,5,7,28,13
+274,55,AI/ML,283,5,8,29,28
+275,77,Angular JS,12,7,7,3,97
+276,63,Full Stack Development,24,1,5,17,27
+277,79,Full Stack Development,294,0,0,39,43
+278,57,Full Stack Development,40,9,9,11,82
+279,18,Full Stack Development,206,0,9,21,36
+280,25,Full Stack Development,267,8,1,0,21
+281,78,Quantum Computing,113,9,3,45,67
+282,48,Quantum Computing,207,8,2,42,6
+283,38,Angular JS,153,1,5,43,76
+284,97,BlockChain,239,8,7,2,62
+285,16,DataScience,136,1,4,35,34
+286,69,AI/ML,99,2,4,14,29
+287,69,Angular JS,188,8,1,14,35
+288,66,AI/ML,24,7,2,43,77
+289,52,BlockChain,90,5,6,30,92
+290,48,BlockChain,202,2,2,32,82
+291,42,BlockChain,73,8,6,13,21
+292,9,Full Stack Development,265,4,3,29,67
+293,90,AI/ML,103,0,1,35,22
+294,22,Angular JS,220,5,8,24,10
+295,92,Quantum Computing,251,9,9,28,20
+296,70,Full Stack Development,166,9,5,2,8
+297,4,DataScience,244,6,3,49,14
+298,56,Quantum Computing,79,1,2,12,37
+299,28,DataScience,128,2,4,34,2
+300,20,Angular JS,204,3,0,26,73
+301,78,AI/ML,25,6,2,47,95
+302,43,DataScience,207,9,1,16,31
+303,49,BlockChain,94,9,9,35,9
+304,50,Quantum Computing,265,2,7,47,45
+305,21,Full Stack Development,262,9,0,33,6
+306,90,BlockChain,82,7,4,9,90
+307,97,Full Stack Development,136,0,7,13,38
+308,11,BlockChain,219,2,4,49,6
+309,87,BlockChain,246,0,8,47,23
+310,54,AI/ML,25,1,9,42,54
+311,30,Angular JS,23,9,9,45,34
+312,78,AI/ML,199,3,6,12,40
+313,34,Full Stack Development,68,5,9,2,74
+314,96,Angular JS,77,6,6,42,65
+315,10,DataScience,26,5,6,36,21
+316,64,Quantum Computing,6,7,8,8,70
+317,34,DataScience,127,8,3,38,50
+318,90,Angular JS,233,0,3,39,58
+319,48,Angular JS,37,3,9,29,72
+320,18,Angular JS,47,1,1,28,18
+321,16,AI/ML,138,8,9,45,9
+322,76,Full Stack Development,13,8,8,8,28
+323,50,Angular JS,38,4,0,15,74
+324,57,Quantum Computing,260,8,1,20,22
+325,69,DataScience,113,3,1,27,96
+326,63,Quantum Computing,114,3,1,33,80
+327,45,Quantum Computing,293,3,6,46,52
+328,53,Quantum Computing,47,7,9,14,53
+329,86,BlockChain,294,9,9,47,71
+330,4,Quantum Computing,258,3,3,22,18
+331,99,Angular JS,146,8,3,12,57
+332,36,AI/ML,176,6,3,36,88
+333,30,Full Stack Development,293,7,2,33,68
+334,96,Full Stack Development,225,4,5,28,1
+335,65,BlockChain,69,6,9,2,3
+336,90,BlockChain,150,3,1,11,39
+337,81,BlockChain,92,9,8,43,95
+338,36,BlockChain,211,1,7,39,97
+339,97,AI/ML,218,4,0,41,40
+340,97,BlockChain,134,9,5,16,45
+341,72,Full Stack Development,71,5,1,48,3
+342,23,Full Stack Development,33,3,4,46,14
+343,89,Angular JS,175,8,4,44,15
+344,29,Full Stack Development,97,8,3,34,27
+345,88,DataScience,268,9,6,18,41
+346,42,AI/ML,250,2,8,23,43
+347,31,Angular JS,241,4,3,37,95
+348,41,Full Stack Development,272,6,8,39,77
+349,9,Full Stack Development,253,7,4,9,51
+350,91,AI/ML,180,2,3,41,55
+351,48,Quantum Computing,207,3,5,49,89
+352,42,Angular JS,60,8,5,11,1
+353,9,Quantum Computing,43,4,7,36,84
+354,3,Full Stack Development,95,3,5,8,71
+355,27,BlockChain,75,1,4,43,79
+356,50,Full Stack Development,163,0,1,27,29
+357,95,Quantum Computing,149,7,6,42,24
+358,23,Full Stack Development,264,1,4,16,30
+359,68,DataScience,264,9,4,21,24
+360,8,Full Stack Development,172,5,3,36,11
+361,13,Angular JS,112,3,8,8,11
+362,26,Angular JS,274,7,2,38,91
+363,18,AI/ML,44,0,2,0,29
+364,9,BlockChain,266,1,3,2,28
+365,50,Quantum Computing,23,7,2,6,30
+366,5,Quantum Computing,281,3,8,1,84
+367,27,Full Stack Development,149,4,3,37,33
+368,75,BlockChain,168,7,4,28,86
+369,15,BlockChain,176,5,6,23,56
+370,53,DataScience,162,6,3,1,43
+371,71,DataScience,245,4,7,2,87
+372,92,Quantum Computing,27,4,7,7,40
+373,62,AI/ML,121,3,3,16,92
+374,14,Quantum Computing,296,0,3,20,48
+375,96,DataScience,145,6,4,32,93
+376,97,DataScience,214,2,9,20,0
+377,27,Quantum Computing,126,5,8,14,12
+378,99,DataScience,9,7,4,36,50
+379,19,Angular JS,166,5,7,42,38
+380,73,AI/ML,129,9,5,7,7
+381,97,Full Stack Development,203,4,9,17,82
+382,53,Full Stack Development,146,0,1,7,48
+383,29,Full Stack Development,96,4,9,26,83
+384,79,Angular JS,50,4,2,27,33
+385,90,Angular JS,120,0,7,11,97
+386,22,Quantum Computing,154,3,3,33,15
+387,80,Angular JS,85,4,4,1,37
+388,45,DataScience,3,9,6,3,94
+389,11,Quantum Computing,235,6,3,37,25
+390,28,Quantum Computing,237,3,2,33,83
+391,12,AI/ML,193,3,5,42,46
+392,42,Angular JS,289,6,4,24,5
+393,98,Quantum Computing,39,1,4,38,58
+394,35,Quantum Computing,215,4,8,37,98
+395,40,Full Stack Development,0,6,2,32,54
+396,60,BlockChain,164,7,1,47,88
+397,16,Full Stack Development,27,7,1,5,25
+398,62,Quantum Computing,286,0,0,47,63
+399,40,Full Stack Development,283,9,0,39,89
+400,31,Angular JS,215,8,3,26,89
+401,80,Full Stack Development,129,2,4,19,5
+402,44,Angular JS,136,5,6,22,37
+403,92,DataScience,218,5,4,21,38
+404,71,BlockChain,104,0,3,35,34
+405,70,Quantum Computing,272,4,3,45,95
+406,17,Quantum Computing,57,8,1,30,80
+407,47,Angular JS,33,7,5,34,61
+408,37,AI/ML,81,5,0,0,78
+409,37,DataScience,240,7,1,23,97
+410,81,Quantum Computing,128,1,6,41,18
+411,88,DataScience,66,6,7,19,81
+412,93,Angular JS,15,3,7,6,32
+413,48,AI/ML,290,1,9,43,26
+414,67,BlockChain,192,1,9,36,1
+415,22,Full Stack Development,38,2,9,8,0
+416,95,Full Stack Development,132,6,2,23,63
+417,92,Quantum Computing,136,2,1,46,26
+418,99,Quantum Computing,292,2,4,44,68
+419,54,Quantum Computing,139,6,3,8,10
+420,47,Quantum Computing,133,6,0,8,50
+421,26,Quantum Computing,167,7,3,11,93
+422,24,Quantum Computing,132,7,1,41,2
+423,39,Angular JS,217,2,0,0,90
+424,18,BlockChain,197,5,1,22,8
+425,34,AI/ML,123,1,3,33,37
+426,48,AI/ML,258,4,4,18,47
+427,15,Full Stack Development,247,2,3,6,6
+428,13,Full Stack Development,175,9,4,48,50
+429,2,Quantum Computing,106,9,4,0,26
+430,64,BlockChain,191,4,0,13,25
+431,87,AI/ML,211,2,2,46,84
+432,58,DataScience,219,2,7,39,74
+433,77,AI/ML,248,1,1,23,5
+434,9,Angular JS,113,1,2,0,45
+435,93,Angular JS,101,0,4,4,2
+436,72,AI/ML,32,1,0,39,43
+437,84,DataScience,86,4,9,20,5
+438,33,AI/ML,153,0,0,3,18
+439,93,Quantum Computing,169,4,4,11,9
+440,89,AI/ML,167,4,0,47,35
+441,67,BlockChain,192,0,5,32,22
+442,50,DataScience,71,6,1,37,21
+443,26,AI/ML,115,7,0,47,57
+444,60,DataScience,45,1,6,37,40
+445,28,Angular JS,38,7,1,1,97
+446,84,Angular JS,195,9,6,25,82
+447,93,Angular JS,236,7,1,33,58
+448,97,AI/ML,281,7,4,22,59
+449,22,Angular JS,77,9,1,39,42
+450,70,BlockChain,267,9,9,43,33
+451,40,BlockChain,253,0,6,9,21
+452,24,Full Stack Development,164,9,1,9,54
+453,84,Angular JS,162,7,6,30,37
+454,31,BlockChain,158,0,0,23,88
+455,84,BlockChain,50,6,2,6,61
+456,36,BlockChain,209,7,3,23,27
+457,65,BlockChain,51,9,4,32,45
+458,59,Quantum Computing,164,3,2,42,55
+459,99,Angular JS,151,0,1,14,26
+460,66,AI/ML,282,2,5,1,44
+461,84,Quantum Computing,190,0,1,38,27
+462,75,Quantum Computing,57,5,1,34,64
+463,69,Quantum Computing,283,3,6,4,46
+464,83,AI/ML,230,9,4,20,69
+465,5,AI/ML,48,6,9,39,16
+466,23,Quantum Computing,84,8,6,43,27
+467,62,Full Stack Development,111,3,6,22,12
+468,38,AI/ML,121,5,6,31,6
+469,12,BlockChain,242,9,5,6,2
+470,3,DataScience,289,2,3,45,29
+471,57,Full Stack Development,175,6,7,11,62
+472,69,Full Stack Development,277,4,2,21,96
+473,14,DataScience,232,8,2,36,19
+474,67,Quantum Computing,230,5,3,43,13
+475,79,Quantum Computing,81,9,2,44,69
+476,30,DataScience,133,6,6,46,5
+477,30,DataScience,214,0,7,9,84
+478,85,DataScience,37,2,5,6,81
+479,82,Angular JS,68,2,7,26,83
+480,12,DataScience,103,3,5,11,75
+481,51,Full Stack Development,134,5,2,2,50
+482,13,Angular JS,71,9,1,19,61
+483,44,BlockChain,15,6,3,8,1
+484,63,DataScience,151,1,8,9,97
+485,90,Full Stack Development,230,0,1,47,13
+486,95,Full Stack Development,11,5,7,3,64
+487,77,Angular JS,256,6,9,38,39
+488,96,Quantum Computing,197,6,5,34,35
+489,96,AI/ML,31,2,6,16,50
+490,82,Quantum Computing,69,9,9,49,44
+491,8,Quantum Computing,148,2,1,42,0
+492,93,Full Stack Development,214,8,0,4,78
+493,15,AI/ML,92,6,2,34,31
+494,66,Angular JS,245,3,1,34,63
+495,73,AI/ML,176,6,7,5,89
+496,37,DataScience,245,7,9,36,24
+497,86,Angular JS,232,0,0,2,37
+498,46,AI/ML,34,6,0,0,83
+499,22,Full Stack Development,78,2,1,27,19
+500,79,DataScience,53,8,8,47,96
